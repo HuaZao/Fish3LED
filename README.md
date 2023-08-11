@@ -7,3 +7,6 @@ ESP8266三路调光驱动
 - [x] 智能温控
 - [x] AP配网
 - [x] Web控制
+      
+### 预览图
+![](https://github.com/HuaZao/Fish3LED/blob/main/chart.jpg)
