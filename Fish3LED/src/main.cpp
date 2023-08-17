@@ -328,8 +328,8 @@ void handleRoot()
       html += "            scaleID: 'x',";
       html += "            value: " + String(currentHour) + ",";
       html += "            borderColor: 'red',";
-      html += "            borderWidth: 1";
-      html += "            borderDash: [5, 5],";
+      html += "            borderWidth: 1,";
+      html += "            borderDash: [5, 5]";
       html += "          }";
       html += "        ]";
       html += "      }";
